@@ -71,4 +71,4 @@ else:
     print("Thank you for Using this Student Activity Score System, BOSS")
     print("=============================================================")
 
-    #May explanation po ako naka separate. Please read, thank you pooo
+    #May explanation po ako naka separate. Please read, thank you pooo, (name READ ME).
